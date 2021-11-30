@@ -1,6 +1,6 @@
-Greetings! 👋
+👋 Greetings!
 
-My name is Matt Connolly. I am currently enrolled in the Scrimbe Frontend Developer Career Path. For my day job, I work at an electronics recycling company in the United States (🇺🇸). I have a passion for woodworking, coaching, reading, and CrossFit.
+My name is Matt Connolly. I am currently enrolled in the Scrimba Frontend Developer Career Path. For my day job, I work at an electronics recycling company in the United States (🇺🇸). I have a passion for woodworking, coaching, reading, and CrossFit.
 
 ⚡ My Work
 Find my work on Github or my website [mattconnolly.dev](https://www.mattconnolly.dev).
