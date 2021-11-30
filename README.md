@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @matt-conn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Greetings! 👋
 
-<!---
-matt-conn/matt-conn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Matt Connolly. I am currently enrolled in the Scrimbe Frontend Developer Career Path. For my day job, I work at an electronics recycling company in the United States (🇺🇸). I have a passion for woodworking, coaching, reading, and CrossFit.
+
+⚡ My Work
+Find my work on Github or my website [mattconnolly.dev](https://www.mattconnolly.dev).
+
+🧰 My Toolbox
+.html, .js, .css
+
+📧 Reach Me
+[@mattphilipconn](https://twitter.com/mattphilipconn)
+[Polywork](https://www.polywork.com/mattconnolly)
+[LinkedIn](https://www.linkedin.com/in/matthewpconnolly/)
+
+☮️ & ❤️
