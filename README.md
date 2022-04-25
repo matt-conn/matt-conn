@@ -10,7 +10,6 @@
 📧 Reach Me 
 <br />[mattconnolly.dev](https://mattconnolly.dev)
 <br />[@mattphilipconn](https://twitter.com/mattphilipconn)
-<br />[Polywork](https://www.polywork.com/mattconnolly)
 <br />[LinkedIn](https://www.linkedin.com/in/matthewpconnolly/)
 
 ✌️  &  ❤️
