@@ -22,6 +22,6 @@
 <br />My love for coding is a love for solving problems. There's nothing better than finding a solution for what seems like an impossible challenge. And I found my passion for teaching and leading when I coached high school rowing for twelve seasons. I’m at my best when I’m able to share my knowledge and help elevate the work around me. 
 <br /><br />
 ⚡ My Work 
-<br />Find my work on Github or my [personal site](https://www.mattconnolly.dev/).
+<br />Find my work on Github or my personal site.
 <br /><br />
 ✌️  &  ❤️
