@@ -17,11 +17,88 @@
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/mattconnolly)
 
 </div>
-<br />
-👋 Greetings!
-<br />My love for coding is a love for solving problems. There's nothing better than finding a solution for what seems like an impossible challenge. And I found my passion for teaching and leading when I coached high school rowing for twelve seasons. I’m at my best when I’m able to share my knowledge and help elevate the work around me. 
+
+<h3>👋 Greetings!</h3>
+My love for coding is a love for solving problems. There's nothing better than finding a solution for what seems like an impossible challenge. And I found my passion for teaching and leading when I coached high school rowing for twelve seasons. I’m at my best when I’m able to share my knowledge and help elevate the work around me. 
 <br /><br />
-⚡ My Work 
-<br />Find my work on Github or my personal site.
+
+<h3>🔌 Shameless Plug: Recycle your Electronics!</h3>
+Did you know that only 22% of U.S. electronic waste is recycled? That means the average American landfills about 44 pounds of e-waste a year. I spent over five years in the electroncis reycling industry. 
+<br /><br />AMA! And find a certified electronics recycler near you: <a href="https://sustainableelectronics.org/find-an-r2-certified-facility/">R2 Certified Recyclers</a> or <a href="https://e-stewards.org/find-a-recycler/">e-Stewards Certified Recyclers</a>.
 <br /><br />
-✌️  &  ❤️
+
+<h3>⚡ My Work</h3>
+<table width="100%" bordercolor="#66b2b2">
+  <tr>
+      <td width="50%" valign="top">
+          <h3 align="center">Off to Sleep</h3>
+          <br />
+          <a target="_blank" href="#">
+              <img src="#" width="100%" alt="Off to Sleep Website"/>
+          </a>
+          <br />
+          <p align="center">
+              <a href="#" target="_blank">
+                  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+              </a>
+              <a href="#" target="_blank">
+                  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+              </a>
+          </p>
+          <p>Subtitle</p>
+      </td>
+      <td width="50%" valign="top">
+          <h3 align="center">Off to Sleep</h3>
+          <br />
+          <a target="_blank" href="#">
+              <img src="#" width="100%" alt="Off to Sleep Website"/>
+          </a>
+          <br />
+          <p align="center">
+              <a href="#" target="_blank">
+                  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+              </a>
+              <a href="#" target="_blank">
+                  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+              </a>
+          </p>
+          <p>Subtitle</p>
+      </td>
+  </tr>
+  <tr>
+      <td width="50%" valign="top">
+          <h3 align="center">Off to Sleep</h3>
+          <br />
+          <a target="_blank" href="#">
+              <img src="#" width="100%" alt="Off to Sleep Website"/>
+          </a>
+          <br />
+          <p align="center">
+              <a href="#" target="_blank">
+                  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+              </a>
+              <a href="#" target="_blank">
+                  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+              </a>
+          </p>
+          <p>Subtitle</p>
+      </td>
+      <td width="50%" valign="top">
+          <h3 align="center">Off to Sleep</h3>
+          <br />
+          <a target="_blank" href="#">
+              <img src="#" width="100%" alt="Off to Sleep Website"/>
+          </a>
+          <br />
+          <p align="center">
+              <a href="#" target="_blank">
+                  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+              </a>
+              <a href="#" target="_blank">
+                  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+              </a>
+          </p>
+          <p>Subtitle</p>
+      </td>
+  </tr>
+</table>
