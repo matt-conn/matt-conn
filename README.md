@@ -45,24 +45,21 @@ Did you know that only 22% of U.S. electronic waste is recycled? That means the 
                   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
               </a>
           </p>
-          <p><b>HTML, CSS</b>: redesign.</p>
+          <p><b>HTML, CSS, Figma</b>: Complete design and launch of new infant sleep consulting business, Off to Sleep.</p>
       </td>
       <td width="50%" valign="top">
           <h3 align="center">Green Earth Website</h3>
           <br />
           <a target="_blank" href="#">
-              <img src="#" width="100%" alt="Business website for Green Earth"/>
+              <img src="images/gif-green-earth.gif" width="100%" alt="Business website for Green Earth"/>
           </a>
           <br />
           <p align="center">
-              <a href="#" target="_blank">
-                  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-              </a>
-              <a href="#" target="_blank">
+              <!--<a href="#" target="_blank">
                   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-              </a>
+              </a> -->
           </p>
-          <p><b>HTML, CSS</b>: landing page for Twitch Streamer, ThatMoistBoy. Includes links to Twitch page and social media pages.</p>
+          <p><b>HTML, CSS, Wix</b>: Resesigned and launched a new company  website to modernize the design, made the website responsive, and updated the copy to be SEO friendly and better advertise the available services.</p>
       </td>
   </tr>
   <tr>
@@ -84,17 +81,17 @@ Did you know that only 22% of U.S. electronic waste is recycled? That means the 
           <p><b>HTML, CSS</b>: landing page for Twitch Streamer, ThatMoistBoy. Includes links to Twitch page and social media pages.</p>
       </td>
       <td width="50%" valign="top">
-          <h3 align="center">Off to Sleep</h3>
+          <h3 align="center">Temperature Conversion Calculator</h3>
           <br />
           <a target="_blank" href="#">
-              <img src="#" width="100%" alt="Off to Sleep Website"/>
+              <img src="#" width="100%" alt="Temperature Conversion Calculator"/>
           </a>
           <br />
           <p align="center">
-              <a href="#" target="_blank">
+              <a href="[#](https://github.com/matt-conn/temperature-calculator)" target="_blank">
                   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
               </a>
-              <a href="#" target="_blank">
+              <a href="https://temp-conversion-calc.netlify.app" target="_blank">
                   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
               </a>
           </p>
