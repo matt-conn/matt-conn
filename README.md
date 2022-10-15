@@ -101,10 +101,14 @@ Did you know that only 22% of U.S. electronic waste is recycled? That means the 
 </table>
 
 <h3>🏋️ Code Challenges</h3>
-<h4>Code Wars</h4>
-![CodeWars Badge](https://www.codewars.com/users/matt-conn/badges/large)
-<a href="https://www.codewars.com/users/matt-conn/completed_solutions">Code Wars Solutions</a>
 
+<h4>Code Wars</h4>
+<div align="left">
+
+![CodeWars Badge](https://www.codewars.com/users/matt-conn/badges/small)
+
+</div>
+<a href="https://www.codewars.com/users/matt-conn/completed_solutions">Code Wars Solutions</a>
 
 <h4>LeetCode</h4>
 <a href="https://leetcode.com/matt-conn/">LeetCode Solutions</a>
