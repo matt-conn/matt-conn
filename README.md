@@ -83,7 +83,7 @@ Did you know that only 22% of U.S. electronic waste is recycled? That means the 
       <td width="50%" valign="top">
           <h3 align="center">Temperature Conversion Calculator</h3>
           <br />
-          <a target="_blank" href="#">
+          <a target="_blank" href="https://temp-conversion-calc.netlify.app">
               <img src="#" width="100%" alt="Temperature Conversion Calculator"/>
           </a>
           <br />
@@ -95,7 +95,7 @@ Did you know that only 22% of U.S. electronic waste is recycled? That means the 
                   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
               </a>
           </p>
-          <p>Subtitle</p>
+          <p><b>HTML, CSS, JS</b>: Convert temperatures from Celsius to Fahrenheit (or Fahrenheit to Celsius) with an added bonus to translate to emoji!</p>
       </td>
   </tr>
 </table>
