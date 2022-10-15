@@ -33,32 +33,32 @@ Did you know that only 22% of U.S. electronic waste is recycled? That means the 
       <td width="50%" valign="top">
           <h3 align="center">Off to Sleep Website</h3>
           <br />
-          <a target="_blank" href="#">
-              <img src="#" width="100%" alt="Off to Sleep Website"/>
+          <a target="_blank" href="https://lindsay-doyle-dev.netlify.app">
+              <img src="images/gif-off-to-sleep.gif" width="100%" alt="Off to Sleep Website"/>
           </a>
           <br />
           <p align="center">
-              <a href="#" target="_blank">
+              <a href="https://github.com/matt-conn/off-to-sleep" target="_blank">
                   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
               </a>
-              <a href="#" target="_blank">
+              <a href="https://lindsay-doyle-dev.netlify.app" target="_blank">
                   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
               </a>
           </p>
-          <p><b>HTML, CSS</b>: landing page for Twitch Streamer, ThatMoistBoy. Includes links to Twitch page and social media pages.</p>
+          <p><b>HTML, CSS</b>: redesign.</p>
       </td>
       <td width="50%" valign="top">
-          <h3 align="center">Twitch Streamer Landing Page</h3>
+          <h3 align="center">Green Earth Website</h3>
           <br />
-          <a target="_blank" href="https://www.thatmoistboy.com">
-              <img src="images/moist-boy-screensot.png" width="100%" alt="Landing page for Twitch streamer, That Moist Boy"/>
+          <a target="_blank" href="#">
+              <img src="#" width="100%" alt="Business website for Green Earth"/>
           </a>
           <br />
           <p align="center">
-              <a href="[#](https://github.com/matt-conn/thatmoistboy)" target="_blank">
+              <a href="#" target="_blank">
                   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
               </a>
-              <a href="https://www.thatmoistboy.com" target="_blank">
+              <a href="#" target="_blank">
                   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
               </a>
           </p>
@@ -67,21 +67,21 @@ Did you know that only 22% of U.S. electronic waste is recycled? That means the 
   </tr>
   <tr>
       <td width="50%" valign="top">
-          <h3 align="center">Off to Sleep</h3>
+          <h3 align="center">Twitch Streamer Landing Page</h3>
           <br />
-          <a target="_blank" href="#">
-              <img src="#" width="100%" alt="Off to Sleep Website"/>
+          <a target="_blank" href="https://www.thatmoistboy.com">
+              <img src="images/moist-boy-screensot.png" width="100%" alt="Landing page for Twitch streamer, That Moist Boy"/>
           </a>
           <br />
           <p align="center">
-              <a href="#" target="_blank">
+              <a href="https://github.com/matt-conn/thatmoistboy" target="_blank">
                   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
               </a>
-              <a href="#" target="_blank">
+              <a href="https://www.thatmoistboy.com" target="_blank">
                   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
               </a>
           </p>
-          <p>Subtitle</p>
+          <p><b>HTML, CSS</b>: landing page for Twitch Streamer, ThatMoistBoy. Includes links to Twitch page and social media pages.</p>
       </td>
       <td width="50%" valign="top">
           <h3 align="center">Off to Sleep</h3>
