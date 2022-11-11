@@ -88,7 +88,7 @@ Did you know that only 22% of U.S. electronic waste is recycled? That means the 
           </a>
           <br />
           <p align="center">
-              <a href="[#](https://github.com/matt-conn/temperature-calculator)" target="_blank">
+              <a href="https://github.com/matt-conn/temperature-calculator" target="_blank">
                   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
               </a>
               <a href="https://temp-conversion-calc.netlify.app" target="_blank">
