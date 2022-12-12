@@ -86,7 +86,7 @@ Did you know that only 22% of U.S. electronic waste is recycled? That means the 
       <td width="50%" valign="top">
           <h3 align="center">Green Earth Website</h3>
           <br />
-          <a target="_blank" href="#">
+          <a target="_blank" href="www.greenearth1.com/">
               <img src="images/gif-green-earth.gif" width="100%" alt="Business website for Green Earth"/>
           </a>
           <br />
